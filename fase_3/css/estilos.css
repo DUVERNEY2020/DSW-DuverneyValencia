@@ -1,6 +1,6 @@
 header{
     background-color: gray;
-    padding: 20px;
+    padding: 10px;
 }
 nav{
     background-color: darkslategrey;
@@ -45,7 +45,7 @@ nav li{
     color:#fff;
     }
 
-    nav li:hover{
+    nav li:horver{
     background-color:#fff;
     color:#000;
     }
